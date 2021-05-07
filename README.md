@@ -6,4 +6,4 @@
 
 본인 케이본드 설정에서 갈무리 기능을 체크하셔야합니다.
 
-<img src=https://github.com/suhan-jung/kbond_bot/blob/master/kbond_setting.jpg?raw=true>
+<img src=https://github.com/suhan-jung/kbond_bot/blob/master/kbond_setting.jpg></img>
